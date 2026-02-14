@@ -1,0 +1,1 @@
+The plans for this repository are to make a visualization of Collatz conjecture stopping times using python visualizations (need to learn how to do that )
