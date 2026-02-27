@@ -10,5 +10,6 @@ Use:
  useNum:
  1: Calculate the stopping time of the given input
  2: Calculate the highest stopping time from 1 to the given input
+ 3: Calculate a traceable list of steps in the conjecture given a starting value
 
  # Created by Mason Carstens
